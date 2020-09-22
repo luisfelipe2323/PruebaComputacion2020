@@ -1,5 +1,5 @@
 nano
-ncal
+bsdmainutils 
 vim
 emacs
 gedit
