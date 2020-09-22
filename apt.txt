@@ -4,3 +4,4 @@ vim
 emacs
 gedit
 libcgroup-dev
+calysto_bash
