@@ -1,4 +1,5 @@
 nano
+cal
 vim
 emacs
 gedit
