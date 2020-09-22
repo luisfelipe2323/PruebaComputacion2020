@@ -4,4 +4,3 @@ vim
 emacs
 gedit
 libcgroup-dev
-bash_kernel
