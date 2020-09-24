@@ -6,4 +6,4 @@ dependencies:
   - pip
   - pip:
       - julia
-      - calysto_bash
+      - bash_kernel
