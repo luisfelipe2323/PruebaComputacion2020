@@ -4,3 +4,4 @@ vim
 emacs
 gedit
 libcgroup-dev
+pip install bash_kernel
